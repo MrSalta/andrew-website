@@ -19,7 +19,6 @@
   "license": "MIT",
   "dependencies": {
     "-": "0.0.1",
-    "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@babel/core": "^7.15.8",
@@ -46,6 +45,7 @@
     "webpack": "^5.58.2"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
     "cross-env": "^7.0.3"
   }
 }
