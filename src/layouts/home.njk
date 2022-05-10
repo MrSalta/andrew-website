@@ -1,0 +1,14 @@
+---
+layout: base
+eleventyNavigation:
+  key: Home
+---
+<main class="main container">
+    {% if collections.introduction.length %}
+        {% set intro = collections.introduction|first %}
+        <section class="section" id="section-introduction">
+            <h2 class="section__title">{{ intro.data.title }}</h2>
+            <div class="lead p-summary">{{ intro.templateContent | safe }}</div>
+        </section>
+    {% endif %}
+</main>

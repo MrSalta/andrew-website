@@ -4,8 +4,6 @@
     "location": "Burbank, CA",
     "avatar": "avatar.jpg",
     "pronouns": "he/him",
-    "email": "andrew@andrewsalter.me",
-    "website": "andrewsalter.me",
     "skills": [
         "Certified ScrumMaster",
         "Agile",
@@ -22,11 +20,7 @@
         }
     ],
     "social": [
-        {
-            "name": "Github",
-            "user": "@mrsalta",
-            "url": "https://github.com/MrSalta"
-        },
+
         {
             "name": "LinkedIn",
             "user": "AndrewKSalter",
