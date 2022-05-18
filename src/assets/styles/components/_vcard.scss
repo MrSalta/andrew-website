@@ -32,6 +32,8 @@
         display: flex;
         align-items: center;
         margin-right: 1rem;
+        padding-top: .8rem;
+        padding-bottom: .8rem;
 
         @include hover-focus {
             text-decoration: none;
